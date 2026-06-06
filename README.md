@@ -9,8 +9,11 @@ To write a Python program using OpenCV and Matplotlib to perform the following o
 
 ## Software Required
 -Anaconda - Python 3.7 or above
+
 -OpenCV library (opencv-python)
+
 -Matplotlib library (matplotlib)
+
 -Jupyter Notebook or any Python IDE (e.g., VS Code, PyCharm)
 
 ## Algorithm
